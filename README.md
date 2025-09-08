@@ -12,9 +12,6 @@ It helps you plan your monthly salary allocation across essential expenses, savi
 - Interactive **doughnut charts** (Chart.js)
 - 🌙 Dark Mode toggle
 
-## 📸 Preview
-(Insert screenshot after deployment)
-
 ## 🔧 Tech Stack
 - HTML5
 - CSS3 (with modern responsive design)
